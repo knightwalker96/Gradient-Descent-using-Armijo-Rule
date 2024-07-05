@@ -1,0 +1,1 @@
+THis project was orginally an assignment question of MCL758 course (Optimization). We had to implement the gradient descent algorithm using the Armijo's rule where you basically introduce two parameters to determine the convergence. The time complexity is better compared to the vanilla gradient descent algorithm.
